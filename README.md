@@ -3,7 +3,7 @@
 Components used :
 
 Recyclerview,
-Retrofit2
+Retrofit2 and
 Glide for image loading.
 
 Architecture:

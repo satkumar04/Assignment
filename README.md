@@ -3,9 +3,11 @@
 This repository contains a detailed sample app that implements MVC architecture in Java using Activity,Recyclerview,Retofit2 And Glide for Image loading.
 
 The app has following packages:
-Model: It contains all the data accessing and manipulating components.
-Network: It contains Request and Response classes
-Controller: It contains Controller classes.
+
+1 - Model: It contains all the data accessing and manipulating components.
+2 - Network: It contains Request and Response classes
+3 - Controller: It contains Controller classes.
+4 - View
 
 
 

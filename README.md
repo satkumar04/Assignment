@@ -1,17 +1,13 @@
 # Assignment
 
-Components used :
+This repository contains a detailed sample app that implements MVP architecture in Java using Activity,Recyclerview,Retofit2 And Glide for Image loading.
 
-Recyclerview,
-Retrofit2 and
-Glide for image loading.
-
-Architecture:
-
-MVC
+The app has following packages:
+Model: It contains all the data accessing and manipulating components.
+Network: It contains Request and Response classes
+Controller: It contains Controller classes.
 
 
 
-Onloading the screen the API gets called and the result will be added to the recycler view.
 
 
